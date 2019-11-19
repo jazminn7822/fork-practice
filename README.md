@@ -37,7 +37,8 @@ that takes up three lines but on
 
 the preview it looks like one line
 
-Make me bold
+
+**Make me bold**
 
 Make me italicized
 
