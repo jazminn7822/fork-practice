@@ -48,8 +48,13 @@ http://www.hstat.org
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
+
+```js
 <ol>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+   
+    <li> 1.Item </li>
+    <li> 2.Item </li>
+    <li> 3.Item </li>
+
 </ol>
+```
